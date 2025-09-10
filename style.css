@@ -63,3 +63,28 @@ footer {
   font-size: 14px;
   font-family: Arial, sans-serif;
 }
+/* ====== Table Styling ====== */
+table {
+  margin: 20px auto;             
+  width: 90%;
+  border-collapse: separate;    
+  border-spacing: 5px;          
+}
+
+table, caption, th, td {
+  border: 1px solid #000;
+}
+
+th, td {
+  height: 150px;
+  height: 35px;
+  text-align: center;
+}
+
+caption {
+  font-weight: 600;
+  height: 40px;
+  text-transform: uppercase;
+  padding-top: 15px;
+  color : #753a30
+}
